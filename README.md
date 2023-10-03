@@ -16,7 +16,7 @@ The application utilizes the following AWS services:
 - **Amazon DynamoDB**: Managed NoSQL database service for storing application data.
 - **Amazon Cognito**: Provides authentication and user management for the web application.
 
-![Serverless Architecture](./images/Serverless_Architecture.PNG)
+![Serverless Architecture](./images/Serverless_Architecture.png)
 
 ## Resources
 
